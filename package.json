@@ -1,0 +1,14 @@
+{
+  "name": "play-with-compiler",
+  "version": "1.0.0",
+  "description": "An compiler implemented in JavaScript",
+  "main": "/src/main.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "compiler"
+  ],
+  "author": "secf4ult <secf4ult@outlook.com> (secf4ult.github.io)",
+  "license": "MIT"
+}
